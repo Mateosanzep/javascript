@@ -11,3 +11,4 @@ let c = 12;
 console.log({ mi_edad });
 console.table({ a, b, c });
 console.log(a + b);
+let coleccionDeJuegos = ['esto', 'es' ,'un', 'arreglo'] //0,1,2,3...
